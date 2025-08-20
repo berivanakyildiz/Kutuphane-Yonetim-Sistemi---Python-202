@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Suç ve Ceza",
+    "author": "Fyodor Dostoyevski",
+    "isbn": "9780140449136",
+    "is_borrowed": false
+  },
+  {
+    "title": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "isbn": "9789753638029",
+    "is_borrowed": false
+  },
+  {
+    "title": "Sefiller",
+    "author": "Victor Hugo",
+    "isbn": "9782070409181",
+    "is_borrowed": false
+  },
+  {
+    "title": "Simyacı",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415",
+    "is_borrowed": false
+  },
+  {
+    "title": "Tutunamayanlar",
+    "author": "Oğuz Atay",
+    "isbn": "9789754700114",
+    "is_borrowed": false
+  },
+  {
+    "title": "Hayvan Çiftliği",
+    "author": "George Orwell",
+    "isbn": "9780451526342",
+    "is_borrowed": false
+  },
+  {
+    "title": "Don Kişot",
+    "author": "Miguel de Cervantes",
+    "isbn": "9780142437230",
+    "is_borrowed": false
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "isbn": "9780441013593",
+    "is_borrowed": false
+  }
+]
